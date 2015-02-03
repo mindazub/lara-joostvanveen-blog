@@ -17,6 +17,7 @@
 
 		<div class="container">
 			<h1> Admin Panel </h1>
+			<h3> {{ link_to_route('home', 'Go, see blog posts')}} </h3>
 
 		</div>	
 

@@ -12,12 +12,12 @@
 </head>
 <body>
 	
-	
+
 
 	<header>
 
 		<div class="container">
-			<h1> Blog Posts are Here: </h1>
+			<h1> {{ link_to_route('home', 'Blog') }} For Everyone ... </h1>
 			<p>by Mindazub</p>
 		</div>	
 
