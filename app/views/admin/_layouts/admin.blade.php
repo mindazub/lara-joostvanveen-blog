@@ -3,16 +3,15 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>
-		joost van veen blog - Admin Panel
-	</title>
+	
+	<title>joost van veen blog - Tutsplus</title>
 
 	{{ HTML::style('css/admin.css')}}
 
 
 </head>
 <body>
-	<h1>joost van veen blog - Tutsplus</h1>
+	
 
 	<header>
 
